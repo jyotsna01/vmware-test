@@ -30,7 +30,7 @@ The project run a flask service to test two external endpoints and create a prom
                  ```
 
        - Install Python dependencies:
-            - Download requirements.txt from https://slb-swt.visualstudio.com/central-sre/_git/sre-automation-py?path=%2Frequirements.txt&version=GBmaster
+            - Download requirements.txt from https://github.com/jyotsna01/vmware-test/blob/master/requirements.txt
             - Launch "Command Prompt" as Administrator.
             - Run:
                  ```
