@@ -8,6 +8,7 @@ prometheus_client
 
 # Test
 mock
+pytest
 pytest-cov
 pytest-xdist
 unittest
