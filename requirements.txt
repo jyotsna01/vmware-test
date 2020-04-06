@@ -1,0 +1,15 @@
+requests
+
+flask
+
+#Prometheus
+prometheus_client
+
+
+# Test
+mock
+pytest-cov
+pytest-xdist
+unittest
+
+pathos

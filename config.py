@@ -1,0 +1,2 @@
+DEBUG = True
+Environment = 'development'
